@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Minesweeper-Bat</string>
+    <string name="reset_button_text">Reposition Kittens</string>
+    <string name="toggle_button_on">Flag</string>
+    <string name="toggle_button_off">Try</string>
+    <string name="active_game_text">Finding Kitties</string>
+    <string name="tried_wrong_cell">Noo, you woke up the kitty</string>
+    <string name="flagged_wrong_cell">Oh, you flagged an empty cell</string>
+    <string name="victory">Kitties are Happy! ^-^</string>
+    <string name="radio_try">Try Mode</string>
+    <string name="radio_flag">Flag Mode</string>
+
+
+</resources>
