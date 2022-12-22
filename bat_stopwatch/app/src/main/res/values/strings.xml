@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bat_Stopwatch</string>
+    <string name="lap_number">Lap %1$s</string>
+    <string name="zero_clock">00:00:00</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_run">Run</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_lap">Lap</string>
+    <string name="time_formatter">%02d:%02d:%02d</string>
+
+</resources>
